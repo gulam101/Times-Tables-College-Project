@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timetableles", "Timetableles\Timetableles.csproj", "{EEE8C5DF-65DF-4027-A2A5-CA36035CD072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE8C5DF-65DF-4027-A2A5-CA36035CD072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE8C5DF-65DF-4027-A2A5-CA36035CD072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE8C5DF-65DF-4027-A2A5-CA36035CD072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE8C5DF-65DF-4027-A2A5-CA36035CD072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53E90A50-7FB4-4067-99ED-77BA20F7CA04}
+	EndGlobalSection
+EndGlobal

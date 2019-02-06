@@ -1,0 +1,10 @@
+C:\Users\Gulam\source\repos\Timetableles\Timetableles\bin\Debug\Timetableles.exe.config
+C:\Users\Gulam\source\repos\Timetableles\Timetableles\bin\Debug\Timetableles.exe
+C:\Users\Gulam\source\repos\Timetableles\Timetableles\bin\Debug\Timetableles.pdb
+C:\Users\Gulam\source\repos\Timetableles\Timetableles\obj\Debug\Timetableles.csprojAssemblyReference.cache
+C:\Users\Gulam\source\repos\Timetableles\Timetableles\obj\Debug\Timetableles.Form1.resources
+C:\Users\Gulam\source\repos\Timetableles\Timetableles\obj\Debug\Timetableles.Properties.Resources.resources
+C:\Users\Gulam\source\repos\Timetableles\Timetableles\obj\Debug\Timetableles.csproj.GenerateResource.cache
+C:\Users\Gulam\source\repos\Timetableles\Timetableles\obj\Debug\Timetableles.csproj.CoreCompileInputs.cache
+C:\Users\Gulam\source\repos\Timetableles\Timetableles\obj\Debug\Timetableles.exe
+C:\Users\Gulam\source\repos\Timetableles\Timetableles\obj\Debug\Timetableles.pdb
