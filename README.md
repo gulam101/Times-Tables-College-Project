@@ -4,6 +4,14 @@ College project
 
 Goal: The goal of the project was to create something that would teach an age group so that they may learn something new. The project scenario was set in a way so that the client had to develop an application for a school that would help them learn how to use the application.
 
+![IMG001](https://user-images.githubusercontent.com/45819118/71081875-f7ce1080-2187-11ea-979d-fe3c9e9cd6ed.PNG)
+![IMG002](https://user-images.githubusercontent.com/45819118/71081876-f7ce1080-2187-11ea-9296-ff3faacd6889.PNG)
+![IMG003](https://user-images.githubusercontent.com/45819118/71081878-f866a700-2187-11ea-9ae9-7ad23bd5c036.PNG)
+![IMG004](https://user-images.githubusercontent.com/45819118/71081879-f866a700-2187-11ea-97a2-6c5d2dd15755.PNG)
+![IMG005](https://user-images.githubusercontent.com/45819118/71081880-f866a700-2187-11ea-9073-a5099713001d.PNG)
+![img006](https://user-images.githubusercontent.com/45819118/71081881-f866a700-2187-11ea-8ab9-4e8e4ccb5124.PNG)
+![img007](https://user-images.githubusercontent.com/45819118/71081882-f866a700-2187-11ea-85a6-27ce786e6594.PNG)
+
 Instructions: User can click on the times table from 1 - 12 and it will show them first 10 multiplications within that table. 
 
 What I learnt: During the design of this application I learnt how to make the interface look neater. I also had a further understanding on how the GUI works on Windows Standard Form. I also enhanced my knowledge on C# and started to get familiar with loops and if statements. I also figured out how to get the tool box back when it disappeared from the menu
