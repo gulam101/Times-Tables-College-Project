@@ -8,6 +8,12 @@ Goal: The goal of the project was to create something that would teach an age gr
 
 Instructions: User can click on the times table from 1 - 12 and it will show them first 10 multiplications within that table.
 
+What I learnt: During the design of this application I learnt how to make the interface look neater. I also had a further understanding on how the GUI works on Windows Standard Form. I also enhanced my knowledge on C# and started to get familiar with loops and if statements. I also figured out how to get the tool box back when it disappeared from the menu
+
+Constraints: When I created this project I had an issue understanding how LOOPS worked but I solved this problem by researching and understanding how it worked. I also had the issue of the tool box but that was bug within the VS Studio.
+
+Improvements:
+
 ![IMG002](https://user-images.githubusercontent.com/45819118/71081876-f7ce1080-2187-11ea-9296-ff3faacd6889.PNG)
 
 ![IMG003](https://user-images.githubusercontent.com/45819118/71081878-f866a700-2187-11ea-9ae9-7ad23bd5c036.PNG)
@@ -19,9 +25,3 @@ Instructions: User can click on the times table from 1 - 12 and it will show the
 ![img006](https://user-images.githubusercontent.com/45819118/71081881-f866a700-2187-11ea-8ab9-4e8e4ccb5124.PNG)
 
 ![img007](https://user-images.githubusercontent.com/45819118/71081882-f866a700-2187-11ea-85a6-27ce786e6594.PNG)
-
-What I learnt: During the design of this application I learnt how to make the interface look neater. I also had a further understanding on how the GUI works on Windows Standard Form. I also enhanced my knowledge on C# and started to get familiar with loops and if statements. I also figured out how to get the tool box back when it disappeared from the menu
-
-Constraints: When I created this project I had an issue understanding how LOOPS worked but I solved this problem by researching and understanding how it worked. I also had the issue of the tool box but that was bug within the VS Studio.
-
-Improvements:
