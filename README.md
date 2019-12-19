@@ -11,8 +11,12 @@ The goal of the project was to create something that would teach an age group so
 User can click on the times table from 1 - 12 and it will show them first 10 multiplications within that table.
 
 ### What I learnt: 
-
-During the design of this application I learnt how to make the interface look neater. I also had a further understanding on how the GUI works on Windows Standard Form. I also enhanced my knowledge on C# and started to get familiar with loops and if statements. I also figured out how to get the tool box back when it disappeared from the menu
+- Improved knowledge on GUI in Windows Standard Form
+- How to use toolbox
+- Improving knowledge on LOOPS
+- Improved knowledge on IF statements
+- Keyboard shortcuts in Visual Studio 2017
+- How to place text on screen
 
 ### Constraints:
 
