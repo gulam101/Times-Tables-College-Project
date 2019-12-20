@@ -13,7 +13,7 @@ User can click on the times table from 1 - 12 and it will show them first 10 mul
 ### What I learnt: 
 - Improved knowledge on GUI in Windows Standard Form
 - How to use toolbox
-- Improving knowledge on LOOPS
+- Improved knowledge on LOOPS
 - Improved knowledge on IF statements
 - Keyboard shortcuts in Visual Studio 2017
 - How to place text on screen
