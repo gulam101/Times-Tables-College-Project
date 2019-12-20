@@ -1,6 +1,6 @@
 # Times-Tables-College-Project
 
-### Goal:
+### Description:
 
 The goal of the project was to create something that would teach an age group so that they may learn something new. The project scenario was set in a way so that the client had to develop an application for a school that would help them learn how to use the application.
 
@@ -35,4 +35,4 @@ When I created this project I had an issue understanding how LOOPS worked but I 
 ![img007](https://user-images.githubusercontent.com/45819118/71081882-f866a700-2187-11ea-85a6-27ce786e6594.PNG)
 
 ### Improvements:
-I think the interface could be increased because showing the tables themselves seem like they are cramped.
+I think the interface could be increased because showing the tables looks like they are almost going off the screen.
