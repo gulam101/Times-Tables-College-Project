@@ -1,14 +1,14 @@
 # Times-Tables-College-Project
 
 # Table of Contents
-Description
-Planned Features
-Instructions
-What I Learnt
-Constraints
-Improvements
-Screenshots
-Credits
+- Description
+- Planned Features
+- Instructions
+- What I Learnt
+- Constraints
+- Improvements
+- Screenshots
+- Credits
 
 
 
