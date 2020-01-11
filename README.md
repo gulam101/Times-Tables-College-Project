@@ -13,8 +13,9 @@
 
 
 ### Description:
+For this project scenario I had to design an application that would help students with their times table. For the scenario, the project needed to have an interface that would be easy to use and it challenges the user to create something simple opposed to something that looks difficult. The project had to be completed within the 25 minute deadline and presented in front of the group.
 
-The goal of the project was to create something that would teach an age group so that they may learn something new. The project scenario was set in a way so that the client had to develop an application for a school that would help them learn how to use the application.
+The point of this project was to learn about C# and get a stronger understanding about how interfaces work. For the design of the project I had to use Windows Standard Form and get a better understanding of how to use the toolbox.
 
 ![IMG001](https://user-images.githubusercontent.com/45819118/71081875-f7ce1080-2187-11ea-979d-fe3c9e9cd6ed.PNG)
 
