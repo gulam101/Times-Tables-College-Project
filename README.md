@@ -17,8 +17,6 @@ For this project scenario I had to design an application that would help student
 
 The point of this project was to learn about C# and get a stronger understanding about how interfaces work. For the design of the project I had to use Windows Standard Form and get a better understanding of how to use the toolbox.
 
-![IMG001](https://user-images.githubusercontent.com/45819118/71081875-f7ce1080-2187-11ea-979d-fe3c9e9cd6ed.PNG)
-
 ### Instructions:
 
 User can click on the times table from 1 - 12 and it will show them first 10 multiplications within that table.
