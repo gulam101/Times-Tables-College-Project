@@ -1,5 +1,17 @@
 # Times-Tables-College-Project
 
+# Table of Contents
+Description
+Planned Features
+Instructions
+What I Learnt
+Constraints
+Improvements
+Screenshots
+Credits
+
+
+
 ### Description:
 
 The goal of the project was to create something that would teach an age group so that they may learn something new. The project scenario was set in a way so that the client had to develop an application for a school that would help them learn how to use the application.
