@@ -46,10 +46,4 @@ I think the interface could be increased because showing the tables looks like t
 
 ![IMG004](https://user-images.githubusercontent.com/45819118/71081879-f866a700-2187-11ea-97a2-6c5d2dd15755.PNG)
 
-![IMG005](https://user-images.githubusercontent.com/45819118/71081880-f866a700-2187-11ea-9073-a5099713001d.PNG)
-
-![img006](https://user-images.githubusercontent.com/45819118/71081881-f866a700-2187-11ea-8ab9-4e8e4ccb5124.PNG)
-
-![img007](https://user-images.githubusercontent.com/45819118/71081882-f866a700-2187-11ea-85a6-27ce786e6594.PNG)
-
 ### Credits:
