@@ -2,6 +2,7 @@
 
 # Table of Contents
 - Description
+- Instructions
 - Planned Features
 - Instructions
 - What I Learnt
@@ -20,6 +21,10 @@ The point of this project was to learn about C# and get a stronger understanding
 ### Instructions:
 
 User can click on the times table from 1 - 12 and it will show them first 10 multiplications within that table.
+
+### Planned Features:
+
+I think for this project I would change the interface so that it is large enough to fit all the data on the screen. But I don't think I want to change too much for this project because I don't want to remove any of the original code I did for this project back in college.
 
 ### What I learnt: 
 - Improved knowledge on GUI in Windows Standard Form
