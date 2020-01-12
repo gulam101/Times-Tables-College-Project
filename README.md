@@ -36,7 +36,7 @@ I think for this project I would change the interface so that it is large enough
 
 ### Constraints:
 
-When I created this project I had an issue understanding how LOOPS worked but I solved this problem by researching and understanding how it worked. I also had the issue of the tool box but that was bug within the VS Studio.
+When I created this project I had an issue understanding how LOOPS worked but I solved this problem by researching and understanding how it worked. I also had the issue of the tool box dissapearing after opening and closing visual studio. The fix was to use the command CTRL + x and this would rebuild the toolbar.
 
 
 ### Improvements:
