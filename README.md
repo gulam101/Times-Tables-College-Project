@@ -1,5 +1,30 @@
 # Times-Tables-College-Project
 
+[Description](#Description)  
+<a name="Description"/>
+
+[Instuctions](#Instructions)  
+<a name="Instructions"/>
+
+[Planned Features](#Planned_Features)  
+<a name="Planned_Features"/>
+
+[What I learnt](#What_I_Learnt)  
+<a name="What_I_Learnt"/>
+
+[Constraints](#Constraints)  
+<a name="Constraints"/>
+
+[Improvements](#Improvements)  
+<a name="Improvements"/>
+
+[Screenshots](#Screenshots)
+<a name="Screenshots"/>
+
+[Credits](#Credits)  
+<a name="Credits"/>
+
+
 # Table of Contents
 - Description
 - Instructions
