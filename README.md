@@ -1,5 +1,6 @@
 # Times-Tables-College-Project
 
+# Table of Contents
 [Description](#Description)  
 <a name="Description"/>
 
@@ -23,18 +24,6 @@
 
 [Credits](#Credits)  
 <a name="Credits"/>
-
-
-# Table of Contents
-- Description
-- Instructions
-- Planned Features
-- Instructions
-- What I Learnt
-- Constraints
-- Improvements
-- Screenshots
-- Credits
 
 
 
